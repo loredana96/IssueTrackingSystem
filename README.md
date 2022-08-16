@@ -20,3 +20,6 @@ The following topics will be covered in this app:
   * Modern functionality like auto-save, undo-redo can be added and handled much easier
   * Complex interfield validations are handled much easier with reactive forms
   * Reactive forms operate in the TypeScript class of the component, and they are easier to test and scale better than template-driven forms
+  
+  ### Issue list
+  ![image](https://user-images.githubusercontent.com/49020518/184814246-9571d922-b572-483e-9ff1-c1278389da3b.png)
