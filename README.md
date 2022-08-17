@@ -23,3 +23,7 @@ The following topics will be covered in this app:
   
   ### Issue list
   ![image](https://user-images.githubusercontent.com/49020518/184814246-9571d922-b572-483e-9ff1-c1278389da3b.png)
+  
+  ### Add new issue
+  ![image](https://user-images.githubusercontent.com/49020518/185057965-ff23a2e6-f2ea-4835-832c-69745d93155f.png)
+
