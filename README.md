@@ -29,3 +29,7 @@ The following topics will be covered in this app:
 
   ### Validate the ditails in the form 
   ![image](https://user-images.githubusercontent.com/49020518/187633394-47cdaaaa-1fca-40fc-aaa5-b978571875bd.png)
+  
+  ### Resolve Issue dialog
+  ![image](https://user-images.githubusercontent.com/49020518/187656848-4e3c8c33-f039-46ba-b5d3-4e62ea0ef2df.png)
+
