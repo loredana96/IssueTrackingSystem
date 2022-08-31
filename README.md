@@ -27,3 +27,5 @@ The following topics will be covered in this app:
   ### Add new issue
   ![image](https://user-images.githubusercontent.com/49020518/185057965-ff23a2e6-f2ea-4835-832c-69745d93155f.png)
 
+  ### Validate the ditails in the form 
+  ![image](https://user-images.githubusercontent.com/49020518/187633394-47cdaaaa-1fca-40fc-aaa5-b978571875bd.png)
